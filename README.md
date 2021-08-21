@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+Greetings Earthings!
+
+REXCZR In Your Presence! Lets CODE!
+#CryptoTheFuture+
